@@ -1,1 +1,1 @@
-There's gonna be something cool here soon.
+THIS IS MY BEST FRIENDS
