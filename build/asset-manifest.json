@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2bd9b096.css",
+    "main.js": "/static/js/main.a69223d9.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/raleway-black.woff2": "/static/media/raleway-black.29ecbb2e11ee94003b30.woff2",
+    "index.html": "/index.html",
+    "main.2bd9b096.css.map": "/static/css/main.2bd9b096.css.map",
+    "main.a69223d9.js.map": "/static/js/main.a69223d9.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bd9b096.css",
+    "static/js/main.a69223d9.js"
+  ]
+}
